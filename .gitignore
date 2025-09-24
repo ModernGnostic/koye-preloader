@@ -1,0 +1,36 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+.idea/
+.vscode/
+nbproject/
+
+# Node / Package managers
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Composer
+vendor/
+composer.lock
+
+# WordPress specific
+wp-content/cache/
+wp-content/backups/
+wp-content/uploads/
+wp-config.php
+
+# Build / Dist files
+/dist/
+/build/
+/coverage/
+
+# Other
+*.bak
+*.zip
+*.tar.gz
+*.rar
